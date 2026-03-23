@@ -6,7 +6,7 @@ const count = ref(0)
 
 <template>
   <section id="center">
-    <h1>测试功能页面</h1>
+    <h1>测试功能页面333444</h1>
     <button class="counter" @click="count++">Count is {{ count }}</button>
   </section>
 </template>
